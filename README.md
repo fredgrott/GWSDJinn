@@ -34,6 +34,10 @@ Api 16 to api 23.
 Credits
 ========
 
+[Eu InLoop AndroidViewModel]()
+
+[Reark Reark]()
+
 Fred Grott(aka shareme  GrottWorkShop)
 [MyGithubProfile](https://github.com/shareme/MyGithubProfile)
 
